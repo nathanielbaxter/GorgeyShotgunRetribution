@@ -29,4 +29,5 @@ Repository: http://github.com/nathanielbaxter/GorgeyShotgunRetribution
 
 * Source code usage:
 
-Currently just another empty repo!
+The contents of the mod directory are the mod itself. All edits to NS2 classes
+and functions are done via the entry method.
