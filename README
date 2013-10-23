@@ -1,0 +1,32 @@
+GorgeyShotgunRetribution
+=================
+
+* Description:
+Allows gorges in Natural Selection 2 to pick up and use shotguns.
+
+The Gorge Kharaa lifeform is a peace loving support class, fighting only when
+their home, hive or habitat are in danger. They just want to live a good life
+and work to feed their babblers. Too often a gorgey is working on defenses
+or supporting an alien push, when a Shotgun-toting marine appears and promptly
+ends the poor gorgey's existance. Enough is enough. The time of retribution is
+upon us, for the gorges fortunate enough to survive an encounter with a shottie
+marine, or chance upon a fallen shotgun, have taken up this powerful weapon and
+now seek vengeance against all marines.
+
+Credit for this idea goes to gorgemuffins, an aus ns2 player. The following is
+a (paraphrased) quote from a game I played recently.
+
+"lhvwb: Serious question, where do think onos with dual miniguns would fit
+into the alien tech tree?
+gorgemuffins: Gorges need shotguns first."
+
+
+* References:
+
+Workshop: http://steamcommunity.com/sharedfiles/filedetails/?id=188244944
+Repository: http://github.com/nathanielbaxter/GorgeyShotgunRetribution
+
+
+* Source code usage:
+
+Currently just another empty repo!

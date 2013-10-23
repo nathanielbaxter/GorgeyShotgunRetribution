@@ -1,0 +1,4 @@
+modEntry = [[
+	Shared: lua/GorgeyShotgunRetribution/Shared.lua,
+	Priority: 5
+]]
